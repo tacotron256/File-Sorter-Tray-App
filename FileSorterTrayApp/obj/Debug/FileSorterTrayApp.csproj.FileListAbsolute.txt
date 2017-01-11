@@ -1,0 +1,9 @@
+c:\users\bob\documents\visual studio 2015\Projects\FileSorterTrayApp\FileSorterTrayApp\bin\Debug\FileSorterTrayApp.exe.config
+c:\users\bob\documents\visual studio 2015\Projects\FileSorterTrayApp\FileSorterTrayApp\obj\Debug\FileSorterTrayApp.csprojResolveAssemblyReference.cache
+c:\users\bob\documents\visual studio 2015\Projects\FileSorterTrayApp\FileSorterTrayApp\obj\Debug\FileSorterTrayApp.Properties.Resources.resources
+c:\users\bob\documents\visual studio 2015\Projects\FileSorterTrayApp\FileSorterTrayApp\obj\Debug\FileSorterTrayApp.csproj.GenerateResource.Cache
+c:\users\bob\documents\visual studio 2015\Projects\FileSorterTrayApp\FileSorterTrayApp\bin\Debug\FileSorterTrayApp.exe
+c:\users\bob\documents\visual studio 2015\Projects\FileSorterTrayApp\FileSorterTrayApp\bin\Debug\FileSorterTrayApp.pdb
+c:\users\bob\documents\visual studio 2015\Projects\FileSorterTrayApp\FileSorterTrayApp\obj\Debug\FileSorterTrayApp.exe
+c:\users\bob\documents\visual studio 2015\Projects\FileSorterTrayApp\FileSorterTrayApp\obj\Debug\FileSorterTrayApp.pdb
+c:\users\bob\documents\visual studio 2015\Projects\FileSorterTrayApp\FileSorterTrayApp\obj\Debug\FileSorterTrayApp.Form1.resources
